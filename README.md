@@ -1,2 +1,2 @@
 # AI-Resume-Builder
-# https://ai-resume-architecture.vercel.app/ 
+# https://ai-resume-builder-six-gold.vercel.app/
